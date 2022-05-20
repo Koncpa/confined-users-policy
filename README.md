@@ -3,7 +3,11 @@ This is repository, where will be implementation of diploma thesis practical out
 
 # How to apply policy on system
 
+
+
 ### Requirements
+Do you need be on RHEL or Fedora OS.
+
 selinux-policy-devel package
 
 1. Install via:
