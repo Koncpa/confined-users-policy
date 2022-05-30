@@ -1,6 +1,8 @@
 # Confined-users-policy
 This is repository, where will be implementation of diploma thesis practical output. The SELinux policies for new confined users. The security policies are under Apache 2.0 license.
 
+The repository may contain files that are empty. These files are automatically generated when the .te file is compiled, so I add them to the repository to keep track of what all is loaded into the kernel, even though these files are not used in this work.
+
 # How to apply policy on system
 
 
